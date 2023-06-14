@@ -1,4 +1,11 @@
 [
+   {
+    "name": "DRB/USDC",
+    "address": "FCdDXkYFX6Smora6gPgfgbMLeCGxncuBssGZu9diX9Gn",
+    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "deprecated": false
+  },
+  
   {
     "name": "ARB/USDC",
     "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
